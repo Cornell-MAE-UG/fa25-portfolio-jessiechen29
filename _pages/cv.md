@@ -8,7 +8,7 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [yc2887@cornell.edu](mailto:yc2887@cornell.edu) | | | **Phone:** (607) 262-4911
 
 ---
 
