@@ -13,25 +13,25 @@ permalink: /cv/
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring Fiber Science student with a strong foundation in statics and fibers.
 
 ---
 
 #### Education
 - **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  *Bachelor of Science in Fiber Science*  
+  GPA: unavailable | Graduation: unavailable
 
-- **[High School Name]**  
+- **Tianjin Farragut School**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: July, 2025
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Software:** N/A  
+- **Programming:** Java, Python  
+- **Tools:** N/A  
 
 ---
 
@@ -63,7 +63,7 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
+- Member of Cornell University Chorale, Amber Dance Troup, and Chinese Drama Society at Cornell  
 - Volunteer for [Event/Organization Name]  
 
 ---
