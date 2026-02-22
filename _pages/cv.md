@@ -13,14 +13,14 @@ permalink: /cv/
 ---
 
 #### Objective
-Aspiring Fiber Science student with a strong foundation in statics and fibers.
+Freshman student at Cornell University
 
 ---
 
 #### Education
 - **Cornell University**  
-  *Bachelor of Science in Fiber Science*  
-  GPA: unavailable | Graduation: unavailable
+  *Bachelor of Science*  
+  GPA: 4.075 | Graduation: Expected 2029
 
 - **Tianjin Farragut School**  
   *High School Diploma*  
@@ -30,7 +30,7 @@ Aspiring Fiber Science student with a strong foundation in statics and fibers.
 
 #### Skills
 - **Software:** N/A  
-- **Programming:** Java, Python  
+- **Programming:** Java, Python
 - **Tools:** N/A  
 
 ---
@@ -63,8 +63,8 @@ Aspiring Fiber Science student with a strong foundation in statics and fibers.
 ---
 
 #### Extracurricular Activities
-- Member of Cornell University Chorale, Amber Dance Troup, and Chinese Drama Society at Cornell  
-- Volunteer for [Event/Organization Name]  
+- Member of Cornell University Chorale, Amber Dance Troupe, and Chinese Drama Society at Cornell  
+- Volunteer for World Language Day 2025 and December '25 Recognition Ceremony  
 
 ---
 
